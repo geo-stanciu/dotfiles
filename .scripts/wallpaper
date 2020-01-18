@@ -1,0 +1,11 @@
+#!/bin/sh
+
+d=$(ls -d ~/wallpaper/*/ | shuf -n 1)
+p=$(ls "$d" | shuf -n 1)
+
+notify-send -u low "wallpaper: $d$p"
+
+echo "$d$p" >> wallpaper_history.txt
+
+feh -eh --bg-fill "$d$p" &
+
