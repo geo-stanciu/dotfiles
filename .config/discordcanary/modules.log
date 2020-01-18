@@ -1,0 +1,1682 @@
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Bootstrapping...
+[Modules] Installing discord_desktop_core@0 from /opt/discord-canary/resources/bootstrap/discord_desktop_core.zip
+[Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_desktop_core.zip'
+[Modules] Installing discord_erlpack@0 from /opt/discord-canary/resources/bootstrap/discord_erlpack.zip
+[Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_erlpack.zip'
+[Modules] Installing discord_spellcheck@0 from /opt/discord-canary/resources/bootstrap/discord_spellcheck.zip
+[Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_spellcheck.zip'
+[Modules] Installing discord_utils@0 from /opt/discord-canary/resources/bootstrap/discord_utils.zip
+[Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_utils.zip'
+[Modules] Installing discord_voice@0 from /opt/discord-canary/resources/bootstrap/discord_voice.zip
+[Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_voice.zip'
+[Modules] Installing discord_zstd@0 from /opt/discord-canary/resources/bootstrap/discord_zstd.zip
+[Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_zstd.zip'
+[Modules] Finished module installations. [success: 0] [failure: 6]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@68 [installed: 0]
+[Modules] Module update available: discord_erlpack@67 [installed: 0]
+[Modules] Module update available: discord_spellcheck@67 [installed: 0]
+[Modules] Module update available: discord_utils@67 [installed: 0]
+[Modules] Module update available: discord_voice@19 [installed: 0]
+[Modules] Module update available: discord_zstd@7 [installed: 0]
+[Modules] Fetching discord_desktop_core@68 from https://discordapp.com/api/modules/canary/discord_desktop_core/68
+[Modules] Streaming discord_desktop_core@68 [1918035 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-68.zip
+[Modules] Fetching discord_erlpack@67 from https://discordapp.com/api/modules/canary/discord_erlpack/67
+[Modules] Streaming discord_erlpack@67 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-67.zip
+[Modules] Fetching discord_spellcheck@67 from https://discordapp.com/api/modules/canary/discord_spellcheck/67
+[Modules] Streaming discord_spellcheck@67 [10208266 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-67.zip
+[Modules] Fetching discord_utils@67 from https://discordapp.com/api/modules/canary/discord_utils/67
+[Modules] Streaming discord_utils@67 [3110860 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-67.zip
+[Modules] Fetching discord_voice@19 from https://discordapp.com/api/modules/canary/discord_voice/19
+[Modules] Streaming discord_voice@19 [11668380 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-19.zip
+[Modules] Fetching discord_zstd@7 from https://discordapp.com/api/modules/canary/discord_zstd/7
+[Modules] Streaming discord_zstd@7 [771727 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_zstd-7.zip
+[Modules] Finished module downloads. [success: 6] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@68 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-68.zip
+[Modules] Installing discord_erlpack@67 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-67.zip
+[Modules] Installing discord_spellcheck@67 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-67.zip
+[Modules] Installing discord_utils@67 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-67.zip
+[Modules] Installing discord_voice@19 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-19.zip
+[Modules] Installing discord_zstd@7 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_zstd-7.zip
+[Modules] Finished module installations. [success: 6] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Starting to install discord_game_utils...
+[Modules] Starting to install discord_rpc...
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Waiting 1000ms before next download.
+[Modules] Fetching discord_game_utils@67 from https://discordapp.com/api/modules/canary/discord_game_utils/67
+[Modules] Streaming discord_game_utils@67 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-67.zip
+[Modules] Fetching discord_rpc@67 from https://discordapp.com/api/modules/canary/discord_rpc/67
+[Modules] Installing discord_game_utils@67 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-67.zip
+[Modules] Finished module installations. [success: 1] [failure: 0]
+[Modules] Streaming discord_rpc@67 [167056 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-67.zip
+[Modules] Finished module downloads. [success: 2] [failure: 1]
+[Modules] Installing discord_rpc@67 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-67.zip
+[Modules] Finished module installations. [success: 1] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@69 [installed: 68]
+[Modules] Module update available: discord_erlpack@68 [installed: 67]
+[Modules] Module update available: discord_spellcheck@68 [installed: 67]
+[Modules] Module update available: discord_utils@68 [installed: 67]
+[Modules] Module update available: discord_voice@20 [installed: 19]
+[Modules] Module update available: discord_game_utils@68 [installed: 67]
+[Modules] Module update available: discord_rpc@68 [installed: 67]
+[Modules] Fetching discord_desktop_core@69 from https://discordapp.com/api/modules/canary/discord_desktop_core/69
+[Modules] Streaming discord_desktop_core@69 [1918035 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-69.zip
+[Modules] Fetching discord_erlpack@68 from https://discordapp.com/api/modules/canary/discord_erlpack/68
+[Modules] Streaming discord_erlpack@68 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-68.zip
+[Modules] Fetching discord_spellcheck@68 from https://discordapp.com/api/modules/canary/discord_spellcheck/68
+[Modules] Streaming discord_spellcheck@68 [10208266 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-68.zip
+[Modules] Fetching discord_utils@68 from https://discordapp.com/api/modules/canary/discord_utils/68
+[Modules] Streaming discord_utils@68 [3110860 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-68.zip
+[Modules] Fetching discord_voice@20 from https://discordapp.com/api/modules/canary/discord_voice/20
+[Modules] Streaming discord_voice@20 [11668380 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-20.zip
+[Modules] Fetching discord_game_utils@68 from https://discordapp.com/api/modules/canary/discord_game_utils/68
+[Modules] Streaming discord_game_utils@68 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-68.zip
+[Modules] Fetching discord_rpc@68 from https://discordapp.com/api/modules/canary/discord_rpc/68
+[Modules] Streaming discord_rpc@68 [167056 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-68.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@69 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-69.zip
+[Modules] Installing discord_erlpack@68 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-68.zip
+[Modules] Installing discord_spellcheck@68 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-68.zip
+[Modules] Installing discord_utils@68 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-68.zip
+[Modules] Installing discord_voice@20 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-20.zip
+[Modules] Installing discord_game_utils@68 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-68.zip
+[Modules] Installing discord_rpc@68 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-68.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@71 [installed: 69]
+[Modules] Module update available: discord_erlpack@70 [installed: 68]
+[Modules] Module update available: discord_spellcheck@70 [installed: 68]
+[Modules] Module update available: discord_utils@70 [installed: 68]
+[Modules] Module update available: discord_voice@22 [installed: 20]
+[Modules] Module update available: discord_game_utils@70 [installed: 68]
+[Modules] Module update available: discord_rpc@70 [installed: 68]
+[Modules] Fetching discord_desktop_core@71 from https://discordapp.com/api/modules/canary/discord_desktop_core/71
+[Modules] Streaming discord_desktop_core@71 [1918035 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-71.zip
+[Modules] Fetching discord_erlpack@70 from https://discordapp.com/api/modules/canary/discord_erlpack/70
+[Modules] Streaming discord_erlpack@70 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-70.zip
+[Modules] Fetching discord_spellcheck@70 from https://discordapp.com/api/modules/canary/discord_spellcheck/70
+[Modules] Streaming discord_spellcheck@70 [10208266 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-70.zip
+[Modules] Fetching discord_utils@70 from https://discordapp.com/api/modules/canary/discord_utils/70
+[Modules] Streaming discord_utils@70 [3110860 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-70.zip
+[Modules] Fetching discord_voice@22 from https://discordapp.com/api/modules/canary/discord_voice/22
+[Modules] Streaming discord_voice@22 [11665418 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-22.zip
+[Modules] Fetching discord_game_utils@70 from https://discordapp.com/api/modules/canary/discord_game_utils/70
+[Modules] Streaming discord_game_utils@70 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-70.zip
+[Modules] Fetching discord_rpc@70 from https://discordapp.com/api/modules/canary/discord_rpc/70
+[Modules] Streaming discord_rpc@70 [167056 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-70.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@71 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-71.zip
+[Modules] Installing discord_erlpack@70 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-70.zip
+[Modules] Installing discord_spellcheck@70 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-70.zip
+[Modules] Installing discord_utils@70 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-70.zip
+[Modules] Installing discord_voice@22 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-22.zip
+[Modules] Installing discord_game_utils@70 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-70.zip
+[Modules] Installing discord_rpc@70 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-70.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@0 from https://discordapp.com/api/modules/canary/discord_krisp/0
+[Modules] Streaming discord_krisp@0 [252 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_krisp-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@72 [installed: 71]
+[Modules] Module update available: discord_erlpack@71 [installed: 70]
+[Modules] Module update available: discord_spellcheck@71 [installed: 70]
+[Modules] Module update available: discord_utils@71 [installed: 70]
+[Modules] Module update available: discord_voice@23 [installed: 22]
+[Modules] Module update available: discord_game_utils@71 [installed: 70]
+[Modules] Module update available: discord_rpc@71 [installed: 70]
+[Modules] Fetching discord_desktop_core@72 from https://discordapp.com/api/modules/canary/discord_desktop_core/72
+[Modules] Streaming discord_desktop_core@72 [1918444 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-72.zip
+[Modules] Fetching discord_erlpack@71 from https://discordapp.com/api/modules/canary/discord_erlpack/71
+[Modules] Streaming discord_erlpack@71 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-71.zip
+[Modules] Fetching discord_spellcheck@71 from https://discordapp.com/api/modules/canary/discord_spellcheck/71
+[Modules] Streaming discord_spellcheck@71 [10208264 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-71.zip
+[Modules] Fetching discord_utils@71 from https://discordapp.com/api/modules/canary/discord_utils/71
+[Modules] Streaming discord_utils@71 [3111231 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-71.zip
+[Modules] Fetching discord_voice@23 from https://discordapp.com/api/modules/canary/discord_voice/23
+[Modules] Streaming discord_voice@23 [11665423 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-23.zip
+[Modules] Fetching discord_game_utils@71 from https://discordapp.com/api/modules/canary/discord_game_utils/71
+[Modules] Streaming discord_game_utils@71 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-71.zip
+[Modules] Fetching discord_rpc@71 from https://discordapp.com/api/modules/canary/discord_rpc/71
+[Modules] Streaming discord_rpc@71 [167049 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-71.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@72 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-72.zip
+[Modules] Installing discord_erlpack@71 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-71.zip
+[Modules] Installing discord_spellcheck@71 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-71.zip
+[Modules] Installing discord_utils@71 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-71.zip
+[Modules] Installing discord_voice@23 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-23.zip
+[Modules] Installing discord_game_utils@71 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-71.zip
+[Modules] Installing discord_rpc@71 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-71.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@73 [installed: 72]
+[Modules] Module update available: discord_erlpack@72 [installed: 71]
+[Modules] Module update available: discord_spellcheck@72 [installed: 71]
+[Modules] Module update available: discord_utils@72 [installed: 71]
+[Modules] Module update available: discord_voice@24 [installed: 23]
+[Modules] Module update available: discord_game_utils@72 [installed: 71]
+[Modules] Module update available: discord_rpc@72 [installed: 71]
+[Modules] Fetching discord_desktop_core@73 from https://discordapp.com/api/modules/canary/discord_desktop_core/73
+[Modules] Streaming discord_desktop_core@73 [1928942 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-73.zip
+[Modules] Fetching discord_erlpack@72 from https://discordapp.com/api/modules/canary/discord_erlpack/72
+[Modules] Streaming discord_erlpack@72 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-72.zip
+[Modules] Fetching discord_spellcheck@72 from https://discordapp.com/api/modules/canary/discord_spellcheck/72
+[Modules] Streaming discord_spellcheck@72 [10208276 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-72.zip
+[Modules] Fetching discord_utils@72 from https://discordapp.com/api/modules/canary/discord_utils/72
+[Modules] Streaming discord_utils@72 [3111219 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-72.zip
+[Modules] Fetching discord_voice@24 from https://discordapp.com/api/modules/canary/discord_voice/24
+[Modules] Streaming discord_voice@24 [11665407 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-24.zip
+[Modules] Fetching discord_game_utils@72 from https://discordapp.com/api/modules/canary/discord_game_utils/72
+[Modules] Streaming discord_game_utils@72 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-72.zip
+[Modules] Fetching discord_rpc@72 from https://discordapp.com/api/modules/canary/discord_rpc/72
+[Modules] Streaming discord_rpc@72 [167045 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-72.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@73 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-73.zip
+[Modules] Installing discord_erlpack@72 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-72.zip
+[Modules] Installing discord_spellcheck@72 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-72.zip
+[Modules] Installing discord_utils@72 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-72.zip
+[Modules] Installing discord_voice@24 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-24.zip
+[Modules] Installing discord_game_utils@72 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-72.zip
+[Modules] Installing discord_rpc@72 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-72.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@74 [installed: 73]
+[Modules] Module update available: discord_erlpack@73 [installed: 72]
+[Modules] Module update available: discord_spellcheck@73 [installed: 72]
+[Modules] Module update available: discord_utils@73 [installed: 72]
+[Modules] Module update available: discord_voice@25 [installed: 24]
+[Modules] Module update available: discord_game_utils@73 [installed: 72]
+[Modules] Module update available: discord_rpc@73 [installed: 72]
+[Modules] Fetching discord_desktop_core@74 from https://discordapp.com/api/modules/canary/discord_desktop_core/74
+[Modules] Streaming discord_desktop_core@74 [1928942 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-74.zip
+[Modules] Fetching discord_erlpack@73 from https://discordapp.com/api/modules/canary/discord_erlpack/73
+[Modules] Streaming discord_erlpack@73 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-73.zip
+[Modules] Fetching discord_spellcheck@73 from https://discordapp.com/api/modules/canary/discord_spellcheck/73
+[Modules] Streaming discord_spellcheck@73 [10208270 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-73.zip
+[Modules] Fetching discord_utils@73 from https://discordapp.com/api/modules/canary/discord_utils/73
+[Modules] Streaming discord_utils@73 [3111242 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-73.zip
+[Modules] Fetching discord_voice@25 from https://discordapp.com/api/modules/canary/discord_voice/25
+[Modules] Streaming discord_voice@25 [11665418 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-25.zip
+[Modules] Fetching discord_game_utils@73 from https://discordapp.com/api/modules/canary/discord_game_utils/73
+[Modules] Streaming discord_game_utils@73 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-73.zip
+[Modules] Fetching discord_rpc@73 from https://discordapp.com/api/modules/canary/discord_rpc/73
+[Modules] Streaming discord_rpc@73 [167056 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-73.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@74 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-74.zip
+[Modules] Installing discord_erlpack@73 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-73.zip
+[Modules] Installing discord_spellcheck@73 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-73.zip
+[Modules] Installing discord_utils@73 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-73.zip
+[Modules] Installing discord_voice@25 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-25.zip
+[Modules] Installing discord_game_utils@73 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-73.zip
+[Modules] Installing discord_rpc@73 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-73.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@75 [installed: 74]
+[Modules] Module update available: discord_erlpack@74 [installed: 73]
+[Modules] Module update available: discord_spellcheck@74 [installed: 73]
+[Modules] Module update available: discord_utils@74 [installed: 73]
+[Modules] Module update available: discord_voice@26 [installed: 25]
+[Modules] Module update available: discord_game_utils@74 [installed: 73]
+[Modules] Module update available: discord_rpc@74 [installed: 73]
+[Modules] Fetching discord_desktop_core@75 from https://discordapp.com/api/modules/canary/discord_desktop_core/75
+[Modules] Streaming discord_desktop_core@75 [1928942 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-75.zip
+[Modules] Fetching discord_erlpack@74 from https://discordapp.com/api/modules/canary/discord_erlpack/74
+[Modules] Streaming discord_erlpack@74 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-74.zip
+[Modules] Fetching discord_spellcheck@74 from https://discordapp.com/api/modules/canary/discord_spellcheck/74
+[Modules] Streaming discord_spellcheck@74 [10208270 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-74.zip
+[Modules] Fetching discord_utils@74 from https://discordapp.com/api/modules/canary/discord_utils/74
+[Modules] Streaming discord_utils@74 [3111221 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-74.zip
+[Modules] Fetching discord_voice@26 from https://discordapp.com/api/modules/canary/discord_voice/26
+[Modules] Streaming discord_voice@26 [11665400 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-26.zip
+[Modules] Fetching discord_game_utils@74 from https://discordapp.com/api/modules/canary/discord_game_utils/74
+[Modules] Streaming discord_game_utils@74 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-74.zip
+[Modules] Fetching discord_rpc@74 from https://discordapp.com/api/modules/canary/discord_rpc/74
+[Modules] Streaming discord_rpc@74 [167049 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-74.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@75 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-75.zip
+[Modules] Installing discord_erlpack@74 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-74.zip
+[Modules] Installing discord_spellcheck@74 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-74.zip
+[Modules] Installing discord_utils@74 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-74.zip
+[Modules] Installing discord_voice@26 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-26.zip
+[Modules] Installing discord_game_utils@74 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-74.zip
+[Modules] Installing discord_rpc@74 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-74.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@76 [installed: 75]
+[Modules] Module update available: discord_erlpack@75 [installed: 74]
+[Modules] Module update available: discord_spellcheck@75 [installed: 74]
+[Modules] Module update available: discord_utils@75 [installed: 74]
+[Modules] Module update available: discord_voice@27 [installed: 26]
+[Modules] Module update available: discord_game_utils@75 [installed: 74]
+[Modules] Module update available: discord_rpc@75 [installed: 74]
+[Modules] Fetching discord_desktop_core@76 from https://discordapp.com/api/modules/canary/discord_desktop_core/76
+[Modules] Streaming discord_desktop_core@76 [1928942 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-76.zip
+[Modules] Fetching discord_erlpack@75 from https://discordapp.com/api/modules/canary/discord_erlpack/75
+[Modules] Streaming discord_erlpack@75 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-75.zip
+[Modules] Fetching discord_spellcheck@75 from https://discordapp.com/api/modules/canary/discord_spellcheck/75
+[Modules] Streaming discord_spellcheck@75 [10208270 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-75.zip
+[Modules] Fetching discord_utils@75 from https://discordapp.com/api/modules/canary/discord_utils/75
+[Modules] Streaming discord_utils@75 [3111221 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-75.zip
+[Modules] Fetching discord_voice@27 from https://discordapp.com/api/modules/canary/discord_voice/27
+[Modules] Streaming discord_voice@27 [11665400 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-27.zip
+[Modules] Fetching discord_game_utils@75 from https://discordapp.com/api/modules/canary/discord_game_utils/75
+[Modules] Streaming discord_game_utils@75 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-75.zip
+[Modules] Fetching discord_rpc@75 from https://discordapp.com/api/modules/canary/discord_rpc/75
+[Modules] Streaming discord_rpc@75 [167049 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-75.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@76 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-76.zip
+[Modules] Installing discord_erlpack@75 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-75.zip
+[Modules] Installing discord_spellcheck@75 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-75.zip
+[Modules] Installing discord_utils@75 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-75.zip
+[Modules] Installing discord_voice@27 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-27.zip
+[Modules] Installing discord_game_utils@75 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-75.zip
+[Modules] Installing discord_rpc@75 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-75.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@77 [installed: 76]
+[Modules] Module update available: discord_erlpack@76 [installed: 75]
+[Modules] Module update available: discord_spellcheck@76 [installed: 75]
+[Modules] Module update available: discord_utils@76 [installed: 75]
+[Modules] Module update available: discord_voice@28 [installed: 27]
+[Modules] Module update available: discord_game_utils@76 [installed: 75]
+[Modules] Module update available: discord_rpc@76 [installed: 75]
+[Modules] Fetching discord_desktop_core@77 from https://discordapp.com/api/modules/canary/discord_desktop_core/77
+[Modules] Streaming discord_desktop_core@77 [1928942 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-77.zip
+[Modules] Fetching discord_erlpack@76 from https://discordapp.com/api/modules/canary/discord_erlpack/76
+[Modules] Streaming discord_erlpack@76 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-76.zip
+[Modules] Fetching discord_spellcheck@76 from https://discordapp.com/api/modules/canary/discord_spellcheck/76
+[Modules] Streaming discord_spellcheck@76 [10208270 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-76.zip
+[Modules] Fetching discord_utils@76 from https://discordapp.com/api/modules/canary/discord_utils/76
+[Modules] Streaming discord_utils@76 [3111221 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-76.zip
+[Modules] Fetching discord_voice@28 from https://discordapp.com/api/modules/canary/discord_voice/28
+[Modules] Streaming discord_voice@28 [11665400 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-28.zip
+[Modules] Fetching discord_game_utils@76 from https://discordapp.com/api/modules/canary/discord_game_utils/76
+[Modules] Streaming discord_game_utils@76 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-76.zip
+[Modules] Fetching discord_rpc@76 from https://discordapp.com/api/modules/canary/discord_rpc/76
+[Modules] Streaming discord_rpc@76 [167049 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-76.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@77 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-77.zip
+[Modules] Installing discord_erlpack@76 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-76.zip
+[Modules] Installing discord_spellcheck@76 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-76.zip
+[Modules] Installing discord_utils@76 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-76.zip
+[Modules] Installing discord_voice@28 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-28.zip
+[Modules] Installing discord_game_utils@76 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-76.zip
+[Modules] Installing discord_rpc@76 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-76.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@78 [installed: 77]
+[Modules] Module update available: discord_erlpack@77 [installed: 76]
+[Modules] Module update available: discord_spellcheck@77 [installed: 76]
+[Modules] Module update available: discord_utils@77 [installed: 76]
+[Modules] Module update available: discord_voice@29 [installed: 28]
+[Modules] Module update available: discord_game_utils@77 [installed: 76]
+[Modules] Module update available: discord_rpc@77 [installed: 76]
+[Modules] Fetching discord_desktop_core@78 from https://discordapp.com/api/modules/canary/discord_desktop_core/78
+[Modules] Streaming discord_desktop_core@78 [1928942 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-78.zip
+[Modules] Fetching discord_erlpack@77 from https://discordapp.com/api/modules/canary/discord_erlpack/77
+[Modules] Streaming discord_erlpack@77 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-77.zip
+[Modules] Fetching discord_spellcheck@77 from https://discordapp.com/api/modules/canary/discord_spellcheck/77
+[Modules] Streaming discord_spellcheck@77 [10208270 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-77.zip
+[Modules] Fetching discord_utils@77 from https://discordapp.com/api/modules/canary/discord_utils/77
+[Modules] Streaming discord_utils@77 [3111221 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-77.zip
+[Modules] Fetching discord_voice@29 from https://discordapp.com/api/modules/canary/discord_voice/29
+[Modules] Streaming discord_voice@29 [11680506 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-29.zip
+[Modules] Fetching discord_game_utils@77 from https://discordapp.com/api/modules/canary/discord_game_utils/77
+[Modules] Streaming discord_game_utils@77 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-77.zip
+[Modules] Fetching discord_rpc@77 from https://discordapp.com/api/modules/canary/discord_rpc/77
+[Modules] Streaming discord_rpc@77 [167049 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-77.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@78 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-78.zip
+[Modules] Installing discord_erlpack@77 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-77.zip
+[Modules] Installing discord_spellcheck@77 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-77.zip
+[Modules] Installing discord_utils@77 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-77.zip
+[Modules] Installing discord_voice@29 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-29.zip
+[Modules] Installing discord_game_utils@77 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-77.zip
+[Modules] Installing discord_rpc@77 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-77.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@81 [installed: 78]
+[Modules] Module update available: discord_erlpack@80 [installed: 77]
+[Modules] Module update available: discord_spellcheck@80 [installed: 77]
+[Modules] Module update available: discord_utils@80 [installed: 77]
+[Modules] Module update available: discord_voice@32 [installed: 29]
+[Modules] Module update available: discord_game_utils@80 [installed: 77]
+[Modules] Module update available: discord_rpc@80 [installed: 77]
+[Modules] Fetching discord_desktop_core@81 from https://discordapp.com/api/modules/canary/discord_desktop_core/81
+[Modules] Streaming discord_desktop_core@81 [1929002 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-81.zip
+[Modules] Fetching discord_erlpack@80 from https://discordapp.com/api/modules/canary/discord_erlpack/80
+[Modules] Streaming discord_erlpack@80 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-80.zip
+[Modules] Fetching discord_spellcheck@80 from https://discordapp.com/api/modules/canary/discord_spellcheck/80
+[Modules] Streaming discord_spellcheck@80 [10208270 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-80.zip
+[Modules] Fetching discord_utils@80 from https://discordapp.com/api/modules/canary/discord_utils/80
+[Modules] Streaming discord_utils@80 [3111242 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-80.zip
+[Modules] Fetching discord_voice@32 from https://discordapp.com/api/modules/canary/discord_voice/32
+[Modules] Streaming discord_voice@32 [11680524 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-32.zip
+[Modules] Fetching discord_game_utils@80 from https://discordapp.com/api/modules/canary/discord_game_utils/80
+[Modules] Streaming discord_game_utils@80 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-80.zip
+[Modules] Fetching discord_rpc@80 from https://discordapp.com/api/modules/canary/discord_rpc/80
+[Modules] Streaming discord_rpc@80 [167056 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-80.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]
+[Modules] Relaunching to install module updates...
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/geo/.config/discordcanary/0.0.98/modules
+[Modules] Module installed file path: /home/geo/.config/discordcanary/0.0.98/modules/installed.json
+[Modules] Module download path: /home/geo/.config/discordcanary/0.0.98/modules/pending
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@81 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-81.zip
+[Modules] Installing discord_erlpack@80 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-80.zip
+[Modules] Installing discord_spellcheck@80 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-80.zip
+[Modules] Installing discord_utils@80 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-80.zip
+[Modules] Installing discord_voice@32 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-32.zip
+[Modules] Installing discord_game_utils@80 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-80.zip
+[Modules] Installing discord_rpc@80 from /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-80.zip
+[Modules] Finished module installations. [success: 7] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/canary/versions.json
+[Modules] Module update available: discord_desktop_core@82 [installed: 81]
+[Modules] Module update available: discord_erlpack@81 [installed: 80]
+[Modules] Module update available: discord_spellcheck@81 [installed: 80]
+[Modules] Module update available: discord_utils@81 [installed: 80]
+[Modules] Module update available: discord_voice@33 [installed: 32]
+[Modules] Module update available: discord_game_utils@81 [installed: 80]
+[Modules] Module update available: discord_rpc@81 [installed: 80]
+[Modules] Fetching discord_desktop_core@82 from https://discordapp.com/api/modules/canary/discord_desktop_core/82
+[Modules] Streaming discord_desktop_core@82 [1929002 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-82.zip
+[Modules] Fetching discord_erlpack@81 from https://discordapp.com/api/modules/canary/discord_erlpack/81
+[Modules] Streaming discord_erlpack@81 [1867608 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-81.zip
+[Modules] Fetching discord_spellcheck@81 from https://discordapp.com/api/modules/canary/discord_spellcheck/81
+[Modules] Streaming discord_spellcheck@81 [10208270 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-81.zip
+[Modules] Fetching discord_utils@81 from https://discordapp.com/api/modules/canary/discord_utils/81
+[Modules] Streaming discord_utils@81 [3111242 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-81.zip
+[Modules] Fetching discord_voice@33 from https://discordapp.com/api/modules/canary/discord_voice/33
+[Modules] Streaming discord_voice@33 [11680524 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-33.zip
+[Modules] Fetching discord_game_utils@81 from https://discordapp.com/api/modules/canary/discord_game_utils/81
+[Modules] Streaming discord_game_utils@81 [2628303 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-81.zip
+[Modules] Fetching discord_rpc@81 from https://discordapp.com/api/modules/canary/discord_rpc/81
+[Modules] Streaming discord_rpc@81 [167056 bytes] to /home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-81.zip
+[Modules] Finished module downloads. [success: 7] [failure: 0]

@@ -1,0 +1,40 @@
+{
+   "checksum": "63f44463ff5b5d59ed180378fdcd1d9d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13222892787568995",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "meta_info": {
+            "order": "1.0.1"
+         },
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13222892787568998",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "meta_info": {
+            "order": "1.0.2"
+         },
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "1",
+      "synced": {
+         "children": [  ],
+         "date_added": "13222892787568999",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,257 @@
+(electron) 'setZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+(electron) 'getZoomLevel function' is deprecated and will be removed. Please use 'zoomLevel property' instead.
+(electron) 'setBadgeCount function' is deprecated and will be removed. Please use 'badgeCount property' instead.
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+[9508:9508:0116/223719.214050:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214149:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG2Simple and entrypoint 1
+[9508:9508:0116/223719.214168:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214181:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG2Main and entrypoint 1
+[9508:9508:0116/223719.214194:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214210:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG4Simple and entrypoint 1
+[9508:9508:0116/223719.214223:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214234:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG4AdvancedSimple and entrypoint 1
+[9508:9508:0116/223719.214253:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214265:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264Baseline and entrypoint 1
+[9508:9508:0116/223719.214278:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214289:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264Main and entrypoint 1
+[9508:9508:0116/223719.214301:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214312:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264High and entrypoint 1
+[9508:9508:0116/223719.214324:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214335:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Simple and entrypoint 1
+[9508:9508:0116/223719.214347:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214358:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Main and entrypoint 1
+[9508:9508:0116/223719.214370:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[9508:9508:0116/223719.214381:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Advanced and entrypoint 1
+[9508:9508:0116/223719.214395:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264Baseline
+[9508:9508:0116/223719.214407:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264Main
+[9508:9508:0116/223719.214418:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264High
+[9483:9493:0116/223719.358205:ERROR:rewards_service_impl.cc(336)] Failed to read file: /home/geo/.config/BraveSoftware/Brave-Browser/Default/publisher_state
+[9519:9519:0116/223719.386859:ERROR:ledger_impl.cc(360)] Failed to load publisher state
+[9519:9519:0116/223719.386932:ERROR:ledger_impl.cc(103)] Failed to initialize wallet
+[9483:9483:0116/223719.578497:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[9483:9483:0116/223719.828069:ERROR:CONSOLE(0)] "Error in event handler: TypeError: callbackList.fetch-sync-records is not a function
+    at chrome-extension://nomlkjnggnifocmealianaaiobmebgil/extension/background.js:13:37", source: chrome-extension://nomlkjnggnifocmealianaaiobmebgil/_generated_background_page.html (0)
+[9483:9483:0116/223719.904107:ERROR:CONSOLE(0)] "Error in event handler: TypeError: callbackList.fetch-sync-records is not a function
+    at chrome-extension://nomlkjnggnifocmealianaaiobmebgil/extension/background.js:13:37", source: chrome-extension://nomlkjnggnifocmealianaaiobmebgil/_generated_background_page.html (0)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+[27249:27249:0117/195328.668641:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668730:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG2Simple and entrypoint 1
+[27249:27249:0117/195328.668746:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668758:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG2Main and entrypoint 1
+[27249:27249:0117/195328.668772:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668788:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG4Simple and entrypoint 1
+[27249:27249:0117/195328.668800:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668810:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG4AdvancedSimple and entrypoint 1
+[27249:27249:0117/195328.668821:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668831:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264Baseline and entrypoint 1
+[27249:27249:0117/195328.668850:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668860:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264Main and entrypoint 1
+[27249:27249:0117/195328.668872:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668881:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264High and entrypoint 1
+[27249:27249:0117/195328.668892:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668908:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Simple and entrypoint 1
+[27249:27249:0117/195328.668919:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668931:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Main and entrypoint 1
+[27249:27249:0117/195328.668950:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[27249:27249:0117/195328.668962:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Advanced and entrypoint 1
+[27249:27249:0117/195328.668976:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264Baseline
+[27249:27249:0117/195328.668989:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264Main
+[27249:27249:0117/195328.669005:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264High
+[27225:27234:0117/195329.007895:ERROR:rewards_service_impl.cc(336)] Failed to read file: /home/geo/.config/BraveSoftware/Brave-Browser/Default/publisher_state
+[27268:27268:0117/195329.027124:ERROR:ledger_impl.cc(360)] Failed to load publisher state
+[27268:27268:0117/195329.027188:ERROR:ledger_impl.cc(103)] Failed to initialize wallet
+[27225:27225:0117/195329.502507:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[27225:27225:0117/195329.747839:ERROR:CONSOLE(0)] "Error in event handler: TypeError: callbackList.fetch-sync-records is not a function
+    at chrome-extension://nomlkjnggnifocmealianaaiobmebgil/extension/background.js:13:37", source: chrome-extension://nomlkjnggnifocmealianaaiobmebgil/_generated_background_page.html (0)
+[28490:28490:0117/200119.051975:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.052891:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG2Simple and entrypoint 1
+[28490:28490:0117/200119.052914:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.052926:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG2Main and entrypoint 1
+[28490:28490:0117/200119.052937:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.052954:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG4Simple and entrypoint 1
+[28490:28490:0117/200119.052965:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.052975:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG4AdvancedSimple and entrypoint 1
+[28490:28490:0117/200119.052985:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.052995:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264Baseline and entrypoint 1
+[28490:28490:0117/200119.053006:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.053016:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264Main and entrypoint 1
+[28490:28490:0117/200119.053027:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.053036:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264High and entrypoint 1
+[28490:28490:0117/200119.053047:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.053057:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Simple and entrypoint 1
+[28490:28490:0117/200119.053068:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.053079:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Main and entrypoint 1
+[28490:28490:0117/200119.053091:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[28490:28490:0117/200119.053101:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Advanced and entrypoint 1
+[28490:28490:0117/200119.053114:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264Baseline
+[28490:28490:0117/200119.053125:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264Main
+[28490:28490:0117/200119.053135:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264High
+[28467:28513:0117/200119.390826:ERROR:rewards_service_impl.cc(336)] Failed to read file: /home/geo/.config/BraveSoftware/Brave-Browser/Default/publisher_state
+[28509:28509:0117/200119.395983:ERROR:ledger_impl.cc(360)] Failed to load publisher state
+[28509:28509:0117/200119.396037:ERROR:ledger_impl.cc(103)] Failed to initialize wallet
+[28467:28484:0117/200122.483212:ERROR:ads_service_impl.cc(281)] Failed to read file: /home/geo/.config/BraveSoftware/Brave-Browser/Default/ads_service/notifications.json
+[28511:1:0117/200122.483568:ERROR:notifications.cc(289)] Failed to load notifications state, resetting to default values
+[28467:28467:0117/200142.989310:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+[21362:21362:0118/114417.451453:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452362:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG2Simple and entrypoint 1
+[21362:21362:0118/114417.452375:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452383:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG2Main and entrypoint 1
+[21362:21362:0118/114417.452390:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452400:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG4Simple and entrypoint 1
+[21362:21362:0118/114417.452407:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452413:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileMPEG4AdvancedSimple and entrypoint 1
+[21362:21362:0118/114417.452419:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452425:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264Baseline and entrypoint 1
+[21362:21362:0118/114417.452431:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452443:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264Main and entrypoint 1
+[21362:21362:0118/114417.452449:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452455:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileH264High and entrypoint 1
+[21362:21362:0118/114417.452461:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452466:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Simple and entrypoint 1
+[21362:21362:0118/114417.452472:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452478:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Main and entrypoint 1
+[21362:21362:0118/114417.452484:ERROR:vaapi_wrapper.cc(802)] vaQuerySurfaceAttributes failed VA error: invalid parameter
+[21362:21362:0118/114417.452489:ERROR:vaapi_wrapper.cc(692)] FillProfileInfo_Locked failed for va_profile VAProfileVC1Advanced and entrypoint 1
+[21362:21362:0118/114417.452497:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264Baseline
+[21362:21362:0118/114417.452502:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264Main
+[21362:21362:0118/114417.452508:ERROR:vaapi_wrapper.cc(516)] GetConfigAttributes failed for va_profile VAProfileH264High
+[21338:21384:0118/114418.013355:ERROR:rewards_service_impl.cc(336)] Failed to read file: /home/geo/.config/BraveSoftware/Brave-Browser/Default/publisher_state
+[21381:21381:0118/114418.019579:ERROR:ledger_impl.cc(360)] Failed to load publisher state
+[21381:21381:0118/114418.019639:ERROR:ledger_impl.cc(103)] Failed to initialize wallet
+[21338:21338:0118/114418.646645:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[21338:21338:0118/114418.937108:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[21338:21386:0118/114425.942755:ERROR:ads_service_impl.cc(281)] Failed to read file: /home/geo/.config/BraveSoftware/Brave-Browser/Default/ads_service/notifications.json
+[21383:1:0118/114425.942856:ERROR:notifications.cc(289)] Failed to load notifications state, resetting to default values
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)

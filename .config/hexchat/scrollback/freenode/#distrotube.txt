@@ -1,0 +1,79 @@
+T 1577903278 19*	Now talking on 22#distrotube
+T 1577903278 22*	Topic for 22#distrotube is: "YouTube: https://www.youtube.com/c/DistroTube | Patreon:  https://www.patreon.com/distrotube | Gopher: gopher://distro.tube | Mastodon:  https://mastodon.technology/@distrotube | "Linux should hurt a turtles.
+T 1577903278 22*	Topic for 22#distrotube set by 26aldcor!~davis@89.191.99.156 (24Fri Nov  8 15:34:20 2019)
+T 1577903278 -18ChanServ-	[#distrotube] A channel for those that agree with DT--that Linux should hurt a little bit!
+T 1577904455 23*	eightyone (~drews@unaffiliated/drews23) has joined
+T 1577904579 24*	kevrocks67 has quit (Quit: WeeChat 2.7)
+T 1577904595 23*	kevrocks67 (~techtac@gateway/tor-sasl/techtac23) has joined
+T 1577905699 24*	eightyone has quit (Quit: eightyone)
+T 1577905760 23*	eightyone (~drews@unaffiliated/drews23) has joined
+T 1577905850 24*	newnerd__1 (~newnerd__@2601:408:680:1980:e599:56f1:f1ee:47cd24) has left
+T 1577907379 23*	newnerd__1 (~newnerd__@2601:408:680:1980:e599:56f1:f1ee:47cd23) has joined
+T 1577907410 24*	newnerd__1 (~newnerd__@2601:408:680:1980:e599:56f1:f1ee:47cd24) has left
+T 1577909082 23*	koken (~koken915@dynamic-acs-72-23-39-147.zoominternet.net23) has joined
+T 1577909303 24*	koken has quit (Quit: Leaving)
+T 1577909345 23*	koken (~koken915@dynamic-acs-72-23-39-147.zoominternet.net23) has joined
+T 1577910417 24*	anon987321 has quit (Ping timeout: 245 seconds)
+T 1577911254 23*	robert_ (~hellspawn@072-186-097-130.res.spectrum.com23) has joined
+T 1577911386 24*	koken has quit (Quit: Leaving)
+T 1577911826 24*	stefmorino2 has quit (Ping timeout: 240 seconds)
+T 1577912184 23*	stefmorino (~yaaic@2600:1006:b162:5c5a:5ea5:7d2e:90b:8de923) has joined
+T 1577912995 23*	anon987321 (~user@2804:14d:72a4:9059:24e4:a6ac:ba07:424b23) has joined
+T 1577913320 23*	koken (~koken915@dynamic-acs-72-23-39-147.zoominternet.net23) has joined
+T 1577913374 24*	koken has quit (Quit: Leaving)
+T 1577913458 23*	koken (~koken9155@dynamic-acs-72-23-39-147.zoominternet.net23) has joined
+T 1577913951 24*	koken has quit (Quit: Leaving)
+T 1577914382 24*	eightyone has quit (Quit: eightyone)
+T 1577914388 23*	koken (~koken111@dynamic-acs-72-23-39-147.zoominternet.net23) has joined
+T 1577914926 24*	levi13 has quit (Ping timeout: 260 seconds)
+T 1577918023 23*	stefmorino2 (~yaaic@static-76-161-39-62.dsl.cavtel.net23) has joined
+T 1577918181 24*	stefmorino has quit (Ping timeout: 260 seconds)
+T 1577918818 23*	ben_ (~ben@2605:6000:151b:c701::823) has joined
+T 1577918880 18<ben_18>	Newbie needing some help. Just started using qtile and have added some built-in layouts, but when I try to add the wallpaper widget it comes up with config err? Where am I supposed to add this wdget on the config file?
+T 1577920440 23*	stefmorino (~yaaic@2600:1006:b158:fda8:ca2:c473:46e8:e67e23) has joined
+T 1577920543 24*	stefmorino2 has quit (Ping timeout: 260 seconds)
+T 1577924598 24*	ben_ has quit (Quit: Leaving)
+T 1577924821 23*	massimo (~massimo@ool-18bb68b6.dyn.optonline.net23) has joined
+T 1577925117 24*	aldcor has quit (Quit: WeeChat 2.6)
+T 1577925792 24*	massimo has quit (Quit: Lost terminal)
+T 1577926574 23*	guardianx (~guardian@60-241-62-242.tpgi.com.au23) has joined
+T 1577927168 23*	dabura (~pablo@dynamic-190-26-186-230.dynamic.etb.net.co23) has joined
+T 1577927916 24*	kevrocks67 has quit (Quit: WeeChat 2.7)
+T 1577928016 23*	kevrocks67 (~techtac@gateway/tor-sasl/techtac23) has joined
+T 1577930353 23*	osimplex (~osimplex@179.228.15.23823) has joined
+T 1577930383 18<osimplex18>	Hello guys.
+T 1577930511 18*	osimplex is using Arch since some months.
+T 1577932253 24*	dabura has quit (Remote host closed the connection)
+T 1577933207 24*	anon987321 has quit (Ping timeout: 252 seconds)
+T 1577933594 24*	osimplex has quit (Ping timeout: 240 seconds)
+T 1577934180 23*	osimplex (~osimplex@179.228.15.23823) has joined
+T 1577937077 23*	m3tti_ (~m3tti@x4e305b8a.dyn.telefonica.de23) has joined
+T 1577937193 23*	osimplex_ (~osimplex@177.45.163.823) has joined
+T 1577937278 24*	osimplex has quit (Ping timeout: 265 seconds)
+T 1577937278 24*	m3tti has quit (Ping timeout: 265 seconds)
+T 1577938598 23*	osimplex (~osimplex@177.45.163.15523) has joined
+T 1577938730 24*	osimplex_ has quit (Ping timeout: 240 seconds)
+T 1577938848 24*	guardianx has quit (Quit: Konversation terminated!)
+T 1577939287 24*	osimplex has quit (Read error: Connection reset by peer)
+T 1577939293 23*	osimplex_ (~osimplex@201-93-73-207.dial-up.telesp.net.br23) has joined
+T 1577941006 24*	osimplex_ (~osimplex@201-93-73-207.dial-up.telesp.net.br24) has left
+T 1577942720 24*	kevrocks67 has quit (Quit: WeeChat 2.7)
+T 1577946512 23*	guardianx (~guardian@60-241-62-242.tpgi.com.au23) has joined
+T 1577949964 23*	levi13 (~levi@p200300E1BF0B856AB34406361AE94AFA.dip0.t-ipconnect.de23) has joined
+T 1577950714 24*	guardianx has quit (Quit: Konversation terminated!)
+T 1577951650 23*	makaveli7 (~makaveli7@unaffiliated/makaveli723) has joined
+T 1577954545 23*	TiltSub (~TiltSub@82.46.6.11523) has joined
+T 1577954613 24*	TiltSub has quit (Client Quit)
+T 1577955589 23*	wleslie (~verte@python/site-packages/verte23) has joined
+T 1577959882 23*	aldcor (~davis@89.191.99.15623) has joined
+T 1577959883 22*	26ChanServ gives channel operator status to 18aldcor
+T 1577961724 24*	AlexC has quit (Ping timeout: 264 seconds)
+T 1577962041 23*	AlexC (alexc@alexc.hu23) has joined
+T 1577967840 24*	addc182 has quit (Quit: The Lounge - https://thelounge.github.io)
+T 1577969188 23*	addc182 (~addc182@host86-168-190-183.range86-168.btcentralplus.com23) has joined
+T 1577970934 24*	addc182 has quit (Ping timeout: 268 seconds)
+T 1577970988 23*	addc182 (~addc182@host86-168-190-183.range86-168.btcentralplus.com23) has joined
+T 1577971801 24*	makaveli7 has quit (Quit: WeeChat 2.7)
+T 1577972680 23*	anon987321 (~user@2804:14d:72a4:9059:110c:31cd:a364:e7a223) has joined
+T 1577976510 Python interface unloaded
+T 1577976510 FiSHLiM plugin unloaded

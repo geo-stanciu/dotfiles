@@ -1,0 +1,83 @@
+**** BEGIN LOGGING AT Wed Jan  1 20:27:58 2020
+
+Jan 01 20:27:58 *	Now talking on #distrotube
+Jan 01 20:27:58 *	Topic for #distrotube is: "YouTube: https://www.youtube.com/c/DistroTube | Patreon:  https://www.patreon.com/distrotube | Gopher: gopher://distro.tube | Mastodon:  https://mastodon.technology/@distrotube | "Linux should hurt a turtles.
+Jan 01 20:27:58 *	Topic for #distrotube set by aldcor!~davis@89.191.99.156 (Fri Nov  8 15:34:20 2019)
+Jan 01 20:27:58 -ChanServ-	[#distrotube] A channel for those that agree with DT--that Linux should hurt a little bit!
+Jan 01 20:47:35 *	eightyone (~drews@unaffiliated/drews) has joined
+Jan 01 20:49:39 *	kevrocks67 has quit (Quit: WeeChat 2.7)
+Jan 01 20:49:55 *	kevrocks67 (~techtac@gateway/tor-sasl/techtac) has joined
+Jan 01 21:08:19 *	eightyone has quit (Quit: eightyone)
+Jan 01 21:09:20 *	eightyone (~drews@unaffiliated/drews) has joined
+Jan 01 21:10:50 *	newnerd__1 (~newnerd__@2601:408:680:1980:e599:56f1:f1ee:47cd) has left
+Jan 01 21:36:19 *	newnerd__1 (~newnerd__@2601:408:680:1980:e599:56f1:f1ee:47cd) has joined
+Jan 01 21:36:50 *	newnerd__1 (~newnerd__@2601:408:680:1980:e599:56f1:f1ee:47cd) has left
+Jan 01 22:04:42 *	koken (~koken915@dynamic-acs-72-23-39-147.zoominternet.net) has joined
+Jan 01 22:08:23 *	koken has quit (Quit: Leaving)
+Jan 01 22:09:05 *	koken (~koken915@dynamic-acs-72-23-39-147.zoominternet.net) has joined
+Jan 01 22:26:57 *	anon987321 has quit (Ping timeout: 245 seconds)
+Jan 01 22:40:54 *	robert_ (~hellspawn@072-186-097-130.res.spectrum.com) has joined
+Jan 01 22:43:06 *	koken has quit (Quit: Leaving)
+Jan 01 22:50:26 *	stefmorino2 has quit (Ping timeout: 240 seconds)
+Jan 01 22:56:24 *	stefmorino (~yaaic@2600:1006:b162:5c5a:5ea5:7d2e:90b:8de9) has joined
+Jan 01 23:09:55 *	anon987321 (~user@2804:14d:72a4:9059:24e4:a6ac:ba07:424b) has joined
+Jan 01 23:15:20 *	koken (~koken915@dynamic-acs-72-23-39-147.zoominternet.net) has joined
+Jan 01 23:16:14 *	koken has quit (Quit: Leaving)
+Jan 01 23:17:38 *	koken (~koken9155@dynamic-acs-72-23-39-147.zoominternet.net) has joined
+Jan 01 23:25:51 *	koken has quit (Quit: Leaving)
+Jan 01 23:33:02 *	eightyone has quit (Quit: eightyone)
+Jan 01 23:33:08 *	koken (~koken111@dynamic-acs-72-23-39-147.zoominternet.net) has joined
+Jan 01 23:42:06 *	levi13 has quit (Ping timeout: 260 seconds)
+Jan 02 00:33:43 *	stefmorino2 (~yaaic@static-76-161-39-62.dsl.cavtel.net) has joined
+Jan 02 00:36:21 *	stefmorino has quit (Ping timeout: 260 seconds)
+Jan 02 00:46:58 *	ben_ (~ben@2605:6000:151b:c701::8) has joined
+Jan 02 00:48:00 <ben_>	Newbie needing some help. Just started using qtile and have added some built-in layouts, but when I try to add the wallpaper widget it comes up with config err? Where am I supposed to add this wdget on the config file?
+Jan 02 01:14:00 *	stefmorino (~yaaic@2600:1006:b158:fda8:ca2:c473:46e8:e67e) has joined
+Jan 02 01:15:43 *	stefmorino2 has quit (Ping timeout: 260 seconds)
+Jan 02 02:23:18 *	ben_ has quit (Quit: Leaving)
+Jan 02 02:27:01 *	massimo (~massimo@ool-18bb68b6.dyn.optonline.net) has joined
+Jan 02 02:31:57 *	aldcor has quit (Quit: WeeChat 2.6)
+Jan 02 02:43:12 *	massimo has quit (Quit: Lost terminal)
+Jan 02 02:56:14 *	guardianx (~guardian@60-241-62-242.tpgi.com.au) has joined
+Jan 02 03:06:08 *	dabura (~pablo@dynamic-190-26-186-230.dynamic.etb.net.co) has joined
+Jan 02 03:18:36 *	kevrocks67 has quit (Quit: WeeChat 2.7)
+Jan 02 03:20:16 *	kevrocks67 (~techtac@gateway/tor-sasl/techtac) has joined
+Jan 02 03:59:13 *	osimplex (~osimplex@179.228.15.238) has joined
+Jan 02 03:59:43 <osimplex>	Hello guys.
+Jan 02 04:01:51 *	osimplex is using Arch since some months.
+Jan 02 04:30:53 *	dabura has quit (Remote host closed the connection)
+Jan 02 04:46:47 *	anon987321 has quit (Ping timeout: 252 seconds)
+Jan 02 04:53:14 *	osimplex has quit (Ping timeout: 240 seconds)
+Jan 02 05:03:00 *	osimplex (~osimplex@179.228.15.238) has joined
+Jan 02 05:51:17 *	m3tti_ (~m3tti@x4e305b8a.dyn.telefonica.de) has joined
+Jan 02 05:53:13 *	osimplex_ (~osimplex@177.45.163.8) has joined
+Jan 02 05:54:38 *	osimplex has quit (Ping timeout: 265 seconds)
+Jan 02 05:54:38 *	m3tti has quit (Ping timeout: 265 seconds)
+Jan 02 06:16:38 *	osimplex (~osimplex@177.45.163.155) has joined
+Jan 02 06:18:50 *	osimplex_ has quit (Ping timeout: 240 seconds)
+Jan 02 06:20:48 *	guardianx has quit (Quit: Konversation terminated!)
+Jan 02 06:28:07 *	osimplex has quit (Read error: Connection reset by peer)
+Jan 02 06:28:13 *	osimplex_ (~osimplex@201-93-73-207.dial-up.telesp.net.br) has joined
+Jan 02 06:56:46 *	osimplex_ (~osimplex@201-93-73-207.dial-up.telesp.net.br) has left
+Jan 02 07:25:20 *	kevrocks67 has quit (Quit: WeeChat 2.7)
+Jan 02 08:28:32 *	guardianx (~guardian@60-241-62-242.tpgi.com.au) has joined
+Jan 02 09:26:04 *	levi13 (~levi@p200300E1BF0B856AB34406361AE94AFA.dip0.t-ipconnect.de) has joined
+Jan 02 09:38:34 *	guardianx has quit (Quit: Konversation terminated!)
+Jan 02 09:54:10 *	makaveli7 (~makaveli7@unaffiliated/makaveli7) has joined
+Jan 02 10:42:25 *	TiltSub (~TiltSub@82.46.6.115) has joined
+Jan 02 10:43:33 *	TiltSub has quit (Client Quit)
+Jan 02 10:59:49 *	wleslie (~verte@python/site-packages/verte) has joined
+Jan 02 12:11:22 *	aldcor (~davis@89.191.99.156) has joined
+Jan 02 12:11:23 *	ChanServ gives channel operator status to aldcor
+Jan 02 12:42:04 *	AlexC has quit (Ping timeout: 264 seconds)
+Jan 02 12:47:21 *	AlexC (alexc@alexc.hu) has joined
+Jan 02 14:24:00 *	addc182 has quit (Quit: The Lounge - https://thelounge.github.io)
+Jan 02 14:46:28 *	addc182 (~addc182@host86-168-190-183.range86-168.btcentralplus.com) has joined
+Jan 02 15:15:34 *	addc182 has quit (Ping timeout: 268 seconds)
+Jan 02 15:16:28 *	addc182 (~addc182@host86-168-190-183.range86-168.btcentralplus.com) has joined
+Jan 02 15:30:01 *	makaveli7 has quit (Quit: WeeChat 2.7)
+Jan 02 15:44:40 *	anon987321 (~user@2804:14d:72a4:9059:110c:31cd:a364:e7a2) has joined
+Jan 02 16:48:30 Python interface unloaded
+Jan 02 16:48:30 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Thu Jan  2 16:48:30 2020
+

@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Wed Jan  1 20:24:51 2020
+
+Jan 01 20:24:51 *	Connecting to chat.freenode.net (130.185.232.126:6697)
+Jan 01 20:24:52 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jan 01 20:24:52 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jan 01 20:24:52 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Jan 01 20:24:52 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jan 01 20:24:52 *	* Subject: /CN=hitchcock.freenode.net
+Jan 01 20:24:52 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Jan 01 20:24:52 *	* Certification info:
+Jan 01 20:24:52 *	  Subject:
+Jan 01 20:24:52 *	    CN=hitchcock.freenode.net
+Jan 01 20:24:52 *	  Issuer:
+Jan 01 20:24:52 *	    C=US
+Jan 01 20:24:52 *	    O=Let's Encrypt
+Jan 01 20:24:52 *	    CN=Let's Encrypt Authority X3
+Jan 01 20:24:52 *	  Public key algorithm: rsaEncryption (4096 bits)
+Jan 01 20:24:52 *	  Sign algorithm sha256WithRSAEncryption
+Jan 01 20:24:52 *	  Valid since Nov 25 05:01:12 2019 GM to Feb 23 05:01:12 2020 GM
+Jan 01 20:24:52 *	* Cipher info:
+Jan 01 20:24:52 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jan 01 20:24:52 *	Connected. Now logging in.

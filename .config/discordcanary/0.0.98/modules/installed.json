@@ -1,0 +1,41 @@
+{
+  "discord_desktop_core": {
+    "installedVersion": 81,
+    "updateVersion": 82,
+    "updateZipfile": "/home/geo/.config/discordcanary/0.0.98/modules/pending/discord_desktop_core-82.zip"
+  },
+  "discord_erlpack": {
+    "installedVersion": 80,
+    "updateVersion": 81,
+    "updateZipfile": "/home/geo/.config/discordcanary/0.0.98/modules/pending/discord_erlpack-81.zip"
+  },
+  "discord_spellcheck": {
+    "installedVersion": 80,
+    "updateVersion": 81,
+    "updateZipfile": "/home/geo/.config/discordcanary/0.0.98/modules/pending/discord_spellcheck-81.zip"
+  },
+  "discord_utils": {
+    "installedVersion": 80,
+    "updateVersion": 81,
+    "updateZipfile": "/home/geo/.config/discordcanary/0.0.98/modules/pending/discord_utils-81.zip"
+  },
+  "discord_voice": {
+    "installedVersion": 32,
+    "updateVersion": 33,
+    "updateZipfile": "/home/geo/.config/discordcanary/0.0.98/modules/pending/discord_voice-33.zip"
+  },
+  "discord_zstd": {
+    "installedVersion": 7
+  },
+  "discord_krisp": {},
+  "discord_game_utils": {
+    "installedVersion": 80,
+    "updateVersion": 81,
+    "updateZipfile": "/home/geo/.config/discordcanary/0.0.98/modules/pending/discord_game_utils-81.zip"
+  },
+  "discord_rpc": {
+    "installedVersion": 80,
+    "updateVersion": 81,
+    "updateZipfile": "/home/geo/.config/discordcanary/0.0.98/modules/pending/discord_rpc-81.zip"
+  }
+}

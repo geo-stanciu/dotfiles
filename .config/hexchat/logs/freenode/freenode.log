@@ -1,0 +1,105 @@
+**** BEGIN LOGGING AT Wed Jan  1 20:24:52 2020
+
+Jan 01 20:24:52 *	*** Looking up your hostname...
+Jan 01 20:24:52 *	*** Checking Ident
+Jan 01 20:24:52 *	*** Found your hostname
+Jan 01 20:24:59 *	*** No Ident response
+Jan 01 20:24:59 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Jan 01 20:24:59 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Jan 01 20:24:59 *	sokar is already in use. Retrying with LordSokar...
+Jan 01 20:24:59 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Wed Jan  1 20:24:59 2020
+
+**** BEGIN LOGGING AT Wed Jan  1 20:24:59 2020
+
+Jan 01 20:24:59 *	Welcome to the freenode Internet Relay Chat Network LordSokar
+Jan 01 20:24:59 *	Your host is hitchcock.freenode.net[130.185.232.126/6697], running version ircd-seven-1.1.9
+Jan 01 20:24:59 *	This server was created Wed Dec 18 2019 at 01:00:47 UTC
+Jan 01 20:24:59 *	hitchcock.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Jan 01 20:24:59 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Jan 01 20:24:59 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 WHOX SAFELIST ELIST=CTU :are supported by this server
+Jan 01 20:24:59 *	ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+Jan 01 20:24:59 *	There are 105 users and 75468 invisible on 29 servers
+Jan 01 20:24:59 *	36 :IRC Operators online
+Jan 01 20:24:59 *	40 :unknown connection(s)
+Jan 01 20:24:59 *	50314 :channels formed
+Jan 01 20:24:59 *	I have 4187 clients and 1 servers
+Jan 01 20:24:59 *	4187 4230 :Current local users 4187, max 4230
+Jan 01 20:24:59 *	75573 87465 :Current global users 75573, max 87465
+Jan 01 20:24:59 *	Highest connection count: 4231 (4230 clients) (179156 connections received)
+Jan 01 20:24:59 *	- hitchcock.freenode.net Message of the Day - 
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+Jan 01 20:24:59 *	- Elemental TV (www.elemental.tv)
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- HITCHCOCK, SIR ALFRED [1899 - 1980] Born in Essex,
+Jan 01 20:24:59 *	- England, Sir Alfred Hitchcock was a noted film director
+Jan 01 20:24:59 *	- and producer. Over a long career he pioneered many modern
+Jan 01 20:24:59 *	- techniques in film-making, made more than 50 feature films,
+Jan 01 20:24:59 *	- and influenced many present-day directors and producers.
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- Welcome to freenode - supporting the free and open source
+Jan 01 20:24:59 *	- software communities since 1998.
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- By connecting to freenode you indicate that you have read and
+Jan 01 20:24:59 *	- accept our policies and guidelines as set out on https://freenode.net
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- In the event that you observe behaviour that contravenes our policies,
+Jan 01 20:24:59 *	- please notify a volunteer staff member via private message, or send us an
+Jan 01 20:24:59 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Jan 01 20:24:59 *	- situation within a reasonable period of time, and we may request further
+Jan 01 20:24:59 *	- information or, as appropriate, involve other parties such as channel operators 
+Jan 01 20:24:59 *	- Group Contacts representing an on-topic group.
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- freenode runs an open proxy scanner.
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- If you are looking for assistance, you may be able to find a list of 
+Jan 01 20:24:59 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Jan 01 20:24:59 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Jan 01 20:24:59 *	- any of us at any time. Please note that freenode predominantly provides 
+Jan 01 20:24:59 *	- assistance via private message, and while we have a network channel the 
+Jan 01 20:24:59 *	- primary venue for support requests is via private message to a member 
+Jan 01 20:24:59 *	- of the volunteer staff team.
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- From time to time, volunteer staff may send server-wide notices relating to
+Jan 01 20:24:59 *	- the project, or the communities that we host. The majority of such notices
+Jan 01 20:24:59 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Jan 01 20:24:59 *	- do not miss them. Important messages relating to the freenode project, including
+Jan 01 20:24:59 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Jan 01 20:24:59 *	- global notices.
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- Representing an on-topic project? Don't forget to register, more information
+Jan 01 20:24:59 *	- can be found on the https://freenode.net website under "Group Registration".
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Jan 01 20:24:59 *	- network going for close to two decades.
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+Jan 01 20:24:59 *	- and everyone else who made this year's freenode #live conference amazing.
+Jan 01 20:24:59 *	- https://freenode.net/news/live-2018
+Jan 01 20:24:59 *	-  
+Jan 01 20:24:59 *	- Thank you for using freenode!
+Jan 01 20:24:59 *	End of /MOTD command.
+Jan 01 20:24:59 *	LordSokar sets mode +Z on LordSokar
+Jan 01 20:24:59 *	LordSokar sets mode +i on LordSokar
+Jan 01 20:24:59 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Jan 01 20:24:59 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Jan 01 20:24:59 *	Received a CTCP VERSION from freenode-connect
+Jan 01 20:25:14 >NickServ<	identify ****
+Jan 01 20:25:14 -NickServ-	Invalid password for lordsokar.
+Jan 01 20:25:29 >NickServ<	identify ****
+Jan 01 20:25:29 -NickServ-	Invalid password for lordsokar.
+Jan 01 20:26:11 >NickServ<	SENDPASS lordsokar
+Jan 01 20:26:11 -NickServ-	The password change key for lordsokar has been sent to the corresponding email address.
+Jan 01 20:27:17 >NickServ<	SETPASS lordsokar rvpasgrosfhj Parola1!
+Jan 01 20:27:17 -NickServ-	The password for lordsokar has been changed to Parola1!.
+Jan 01 20:27:22 >NickServ<	identify ****
+Jan 01 20:27:22 -NickServ-	You are now identified for lordsokar.
+Jan 01 20:27:22 -NickServ-	2 failed logins since last login.
+Jan 01 20:27:22 -NickServ-	Last failed attempt from: LordSokar!~sokar@5-12-17-249.residential.rdsnet.ro on Jan 01 18:25:30 2020.
+Jan 01 20:27:48 *	distrotube :No such channel
+Jan 02 16:48:30 Perl interface unloaded
+Jan 02 16:48:30 Checksum plugin unloaded
+Jan 02 16:48:30 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Thu Jan  2 16:48:30 2020
+

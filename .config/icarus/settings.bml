@@ -1,0 +1,4 @@
+createManifests: false
+useDatabase: true
+useHeuristics: true
+recent: /home/geo/
